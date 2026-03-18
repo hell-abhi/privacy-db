@@ -1,0 +1,88 @@
+{
+  "package_name": "com.myntra.android",
+  "app_name": "Myntra - Fashion Shopping App",
+  "category": "Shopping",
+  "rating": 4.56,
+  "downloads": 100000000,
+  "permissions": [
+    {
+      "group": "Calendar",
+      "permissions": [
+        "read calendar events plus confidential information",
+        "add or modify calendar events and send email to guests without owners' knowledge"
+      ]
+    },
+    {
+      "group": "Contacts",
+      "permissions": [
+        "read your contacts"
+      ]
+    },
+    {
+      "group": "Location",
+      "permissions": [
+        "approximate location (network-based)",
+        "precise location (GPS and network-based)"
+      ]
+    },
+    {
+      "group": "SMS",
+      "permissions": [
+        "read your text messages (SMS or MMS)",
+        "receive text messages (SMS)"
+      ]
+    },
+    {
+      "group": "Photos/Media/Files",
+      "permissions": [
+        "read the contents of your USB storage",
+        "modify or delete the contents of your USB storage"
+      ]
+    },
+    {
+      "group": "Storage",
+      "permissions": [
+        "read the contents of your USB storage",
+        "modify or delete the contents of your USB storage"
+      ]
+    },
+    {
+      "group": "Camera",
+      "permissions": [
+        "take pictures and videos"
+      ]
+    },
+    {
+      "group": "Microphone",
+      "permissions": [
+        "record audio"
+      ]
+    },
+    {
+      "group": "Wi-Fi connection information",
+      "permissions": [
+        "view Wi-Fi connections"
+      ]
+    },
+    {
+      "group": "Other",
+      "permissions": [
+        "view network connections",
+        "full network access",
+        "run at startup",
+        "use accounts on the device",
+        "control vibration",
+        "prevent device from sleeping"
+      ]
+    }
+  ],
+  "total_permissions": 20,
+  "data_safety": {
+    "shared": "Location, Personal info and 3 others",
+    "collected": "Location, Personal info and 5 others",
+    "encrypted": true,
+    "deletable": true
+  },
+  "scanned_at": "2026-03-18T19:15:32Z",
+  "source": "Google Play Store"
+}

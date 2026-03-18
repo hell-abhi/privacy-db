@@ -1,0 +1,103 @@
+{
+  "package_name": "com.amazon.mShop.android.shopping",
+  "app_name": "Amazon Shopping",
+  "category": "Shopping",
+  "rating": 4.51,
+  "downloads": 500000000,
+  "permissions": [
+    {
+      "group": "Identity",
+      "permissions": [
+        "find accounts on the device",
+        "add or remove accounts"
+      ]
+    },
+    {
+      "group": "Contacts",
+      "permissions": [
+        "find accounts on the device",
+        "read your contacts"
+      ]
+    },
+    {
+      "group": "Location",
+      "permissions": [
+        "approximate location (network-based)",
+        "precise location (GPS and network-based)"
+      ]
+    },
+    {
+      "group": "Phone",
+      "permissions": [
+        "read phone status and identity"
+      ]
+    },
+    {
+      "group": "Photos/Media/Files",
+      "permissions": [
+        "read the contents of your USB storage",
+        "modify or delete the contents of your USB storage"
+      ]
+    },
+    {
+      "group": "Storage",
+      "permissions": [
+        "read the contents of your USB storage",
+        "modify or delete the contents of your USB storage"
+      ]
+    },
+    {
+      "group": "Camera",
+      "permissions": [
+        "take pictures and videos"
+      ]
+    },
+    {
+      "group": "Microphone",
+      "permissions": [
+        "record audio"
+      ]
+    },
+    {
+      "group": "Wi-Fi connection information",
+      "permissions": [
+        "view Wi-Fi connections"
+      ]
+    },
+    {
+      "group": "Device ID & call information",
+      "permissions": [
+        "read phone status and identity"
+      ]
+    },
+    {
+      "group": "Other",
+      "permissions": [
+        "view network connections",
+        "create accounts and set passwords",
+        "pair with Bluetooth devices",
+        "access Bluetooth settings",
+        "connect and disconnect from Wi-Fi",
+        "control flashlight",
+        "full network access",
+        "change your audio settings",
+        "control Near Field Communication",
+        "run at startup",
+        "use accounts on the device",
+        "control vibration",
+        "prevent device from sleeping",
+        "install shortcuts",
+        "Google Play license check"
+      ]
+    }
+  ],
+  "total_permissions": 30,
+  "data_safety": {
+    "shared": null,
+    "collected": null,
+    "encrypted": false,
+    "deletable": false
+  },
+  "scanned_at": "2026-03-18T19:14:59Z",
+  "source": "Google Play Store"
+}

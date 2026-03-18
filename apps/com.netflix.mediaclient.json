@@ -1,0 +1,64 @@
+{
+  "package_name": "com.netflix.mediaclient",
+  "app_name": "Netflix",
+  "category": "Entertainment",
+  "rating": 3.87,
+  "downloads": 1000000000,
+  "permissions": [
+    {
+      "group": "Photos/Media/Files",
+      "permissions": [
+        "read the contents of your USB storage",
+        "modify or delete the contents of your USB storage"
+      ]
+    },
+    {
+      "group": "Storage",
+      "permissions": [
+        "read the contents of your USB storage",
+        "modify or delete the contents of your USB storage"
+      ]
+    },
+    {
+      "group": "Camera",
+      "permissions": [
+        "take pictures and videos"
+      ]
+    },
+    {
+      "group": "Microphone",
+      "permissions": [
+        "record audio"
+      ]
+    },
+    {
+      "group": "Wi-Fi connection information",
+      "permissions": [
+        "view Wi-Fi connections"
+      ]
+    },
+    {
+      "group": "Other",
+      "permissions": [
+        "view network connections",
+        "pair with Bluetooth devices",
+        "allow Wi-Fi Multicast reception",
+        "full network access",
+        "change your audio settings",
+        "run at startup",
+        "control vibration",
+        "prevent device from sleeping",
+        "read Google service configuration"
+      ]
+    }
+  ],
+  "total_permissions": 16,
+  "data_safety": {
+    "shared": "<a href=\"https://support.google.com/googleplay?p=data-safety&amp;hl=en\" target=\"_blank\">Learn more</a> about how developers declare sharing",
+    "collected": "Location, Personal info and 4 others",
+    "encrypted": true,
+    "deletable": true
+  },
+  "scanned_at": "2026-03-18T19:15:20Z",
+  "source": "Google Play Store"
+}

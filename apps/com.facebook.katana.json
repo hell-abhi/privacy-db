@@ -1,0 +1,125 @@
+{
+  "package_name": "com.facebook.katana",
+  "app_name": "Facebook",
+  "category": "Social",
+  "rating": 4.37,
+  "downloads": 10000000000,
+  "permissions": [
+    {
+      "group": "Device & app history",
+      "permissions": [
+        "retrieve running apps"
+      ]
+    },
+    {
+      "group": "Identity",
+      "permissions": [
+        "find accounts on the device",
+        "add or remove accounts",
+        "read your own contact card"
+      ]
+    },
+    {
+      "group": "Calendar",
+      "permissions": [
+        "read calendar events plus confidential information",
+        "add or modify calendar events and send email to guests without owners' knowledge"
+      ]
+    },
+    {
+      "group": "Contacts",
+      "permissions": [
+        "find accounts on the device",
+        "read your contacts",
+        "modify your contacts"
+      ]
+    },
+    {
+      "group": "Location",
+      "permissions": [
+        "approximate location (network-based)",
+        "precise location (GPS and network-based)"
+      ]
+    },
+    {
+      "group": "Phone",
+      "permissions": [
+        "directly call phone numbers",
+        "read call log",
+        "read phone status and identity"
+      ]
+    },
+    {
+      "group": "Photos/Media/Files",
+      "permissions": [
+        "read the contents of your USB storage",
+        "modify or delete the contents of your USB storage"
+      ]
+    },
+    {
+      "group": "Storage",
+      "permissions": [
+        "read the contents of your USB storage",
+        "modify or delete the contents of your USB storage"
+      ]
+    },
+    {
+      "group": "Camera",
+      "permissions": [
+        "take pictures and videos"
+      ]
+    },
+    {
+      "group": "Microphone",
+      "permissions": [
+        "record audio"
+      ]
+    },
+    {
+      "group": "Wi-Fi connection information",
+      "permissions": [
+        "view Wi-Fi connections"
+      ]
+    },
+    {
+      "group": "Device ID & call information",
+      "permissions": [
+        "read phone status and identity"
+      ]
+    },
+    {
+      "group": "Other",
+      "permissions": [
+        "view network connections",
+        "create accounts and set passwords",
+        "read battery statistics",
+        "pair with Bluetooth devices",
+        "access Bluetooth settings",
+        "send sticky broadcast",
+        "change network connectivity",
+        "connect and disconnect from Wi-Fi",
+        "full network access",
+        "change your audio settings",
+        "control Near Field Communication",
+        "read sync settings",
+        "run at startup",
+        "reorder running apps",
+        "draw over other apps",
+        "control vibration",
+        "prevent device from sleeping",
+        "toggle sync on and off",
+        "install shortcuts",
+        "read Google service configuration"
+      ]
+    }
+  ],
+  "total_permissions": 42,
+  "data_safety": {
+    "shared": "Personal info and Device or other IDs",
+    "collected": "Location, Personal info and 12 others",
+    "encrypted": true,
+    "deletable": true
+  },
+  "scanned_at": "2026-03-18T19:14:57Z",
+  "source": "Google Play Store"
+}

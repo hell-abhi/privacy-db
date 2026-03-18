@@ -1,0 +1,101 @@
+{
+  "package_name": "com.ubercab",
+  "app_name": "Uber - Bike, Auto & Car Rides",
+  "category": "Maps & Navigation",
+  "rating": 4.75,
+  "downloads": 1000000000,
+  "permissions": [
+    {
+      "group": "Identity",
+      "permissions": [
+        "find accounts on the device",
+        "add or remove accounts"
+      ]
+    },
+    {
+      "group": "Contacts",
+      "permissions": [
+        "find accounts on the device",
+        "read your contacts"
+      ]
+    },
+    {
+      "group": "Location",
+      "permissions": [
+        "approximate location (network-based)",
+        "precise location (GPS and network-based)"
+      ]
+    },
+    {
+      "group": "Phone",
+      "permissions": [
+        "directly call phone numbers",
+        "read phone status and identity"
+      ]
+    },
+    {
+      "group": "Photos/Media/Files",
+      "permissions": [
+        "read the contents of your USB storage",
+        "modify or delete the contents of your USB storage"
+      ]
+    },
+    {
+      "group": "Storage",
+      "permissions": [
+        "read the contents of your USB storage",
+        "modify or delete the contents of your USB storage"
+      ]
+    },
+    {
+      "group": "Camera",
+      "permissions": [
+        "take pictures and videos"
+      ]
+    },
+    {
+      "group": "Microphone",
+      "permissions": [
+        "record audio"
+      ]
+    },
+    {
+      "group": "Wi-Fi connection information",
+      "permissions": [
+        "view Wi-Fi connections"
+      ]
+    },
+    {
+      "group": "Device ID & call information",
+      "permissions": [
+        "read phone status and identity"
+      ]
+    },
+    {
+      "group": "Other",
+      "permissions": [
+        "view network connections",
+        "pair with Bluetooth devices",
+        "access Bluetooth settings",
+        "change network connectivity",
+        "full network access",
+        "change your audio settings",
+        "run at startup",
+        "draw over other apps",
+        "use accounts on the device",
+        "control vibration",
+        "prevent device from sleeping",
+        "read Google service configuration"
+      ]
+    }
+  ],
+  "total_permissions": 28,
+  "data_safety": {
+    "shared": "App activity",
+    "collected": "Location, Personal info and 8 others",
+    "encrypted": true,
+    "deletable": true
+  },
+  "scanned_at": "2026-03-18T19:15:19Z",
+  "source": "Google Play Store"
+}

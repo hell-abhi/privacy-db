@@ -1,0 +1,72 @@
+{
+  "package_name": "com.reddit.frontpage",
+  "app_name": "Reddit: Recommended By Sachin",
+  "category": "Social",
+  "rating": 4.55,
+  "downloads": 100000000,
+  "permissions": [
+    {
+      "group": "Location",
+      "permissions": [
+        "approximate location (network-based)"
+      ]
+    },
+    {
+      "group": "Photos/Media/Files",
+      "permissions": [
+        "read the contents of your USB storage",
+        "modify or delete the contents of your USB storage"
+      ]
+    },
+    {
+      "group": "Storage",
+      "permissions": [
+        "read the contents of your USB storage",
+        "modify or delete the contents of your USB storage"
+      ]
+    },
+    {
+      "group": "Camera",
+      "permissions": [
+        "take pictures and videos"
+      ]
+    },
+    {
+      "group": "Microphone",
+      "permissions": [
+        "record audio"
+      ]
+    },
+    {
+      "group": "Wi-Fi connection information",
+      "permissions": [
+        "view Wi-Fi connections"
+      ]
+    },
+    {
+      "group": "Other",
+      "permissions": [
+        "view network connections",
+        "control flashlight",
+        "full network access",
+        "change your audio settings",
+        "read sync settings",
+        "run at startup",
+        "control vibration",
+        "prevent device from sleeping",
+        "toggle sync on and off",
+        "install shortcuts",
+        "read Google service configuration"
+      ]
+    }
+  ],
+  "total_permissions": 19,
+  "data_safety": {
+    "shared": "Personal info, Messages and 5 others",
+    "collected": "Location, Personal info and 8 others",
+    "encrypted": true,
+    "deletable": true
+  },
+  "scanned_at": "2026-03-18T19:15:30Z",
+  "source": "Google Play Store"
+}

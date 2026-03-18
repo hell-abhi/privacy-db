@@ -1,0 +1,125 @@
+{
+  "package_name": "com.whatsapp",
+  "app_name": "WhatsApp Messenger",
+  "category": "Communication",
+  "rating": 4.43,
+  "downloads": 10000000000,
+  "permissions": [
+    {
+      "group": "Device & app history",
+      "permissions": [
+        "retrieve running apps"
+      ]
+    },
+    {
+      "group": "Identity",
+      "permissions": [
+        "find accounts on the device",
+        "add or remove accounts",
+        "read your own contact card"
+      ]
+    },
+    {
+      "group": "Contacts",
+      "permissions": [
+        "find accounts on the device",
+        "read your contacts",
+        "modify your contacts"
+      ]
+    },
+    {
+      "group": "Location",
+      "permissions": [
+        "approximate location (network-based)",
+        "precise location (GPS and network-based)"
+      ]
+    },
+    {
+      "group": "SMS",
+      "permissions": [
+        "receive text messages (SMS)",
+        "send SMS messages"
+      ]
+    },
+    {
+      "group": "Phone",
+      "permissions": [
+        "directly call phone numbers",
+        "read call log",
+        "read phone status and identity"
+      ]
+    },
+    {
+      "group": "Photos/Media/Files",
+      "permissions": [
+        "read the contents of your USB storage",
+        "modify or delete the contents of your USB storage"
+      ]
+    },
+    {
+      "group": "Storage",
+      "permissions": [
+        "read the contents of your USB storage",
+        "modify or delete the contents of your USB storage"
+      ]
+    },
+    {
+      "group": "Camera",
+      "permissions": [
+        "take pictures and videos"
+      ]
+    },
+    {
+      "group": "Microphone",
+      "permissions": [
+        "record audio"
+      ]
+    },
+    {
+      "group": "Wi-Fi connection information",
+      "permissions": [
+        "view Wi-Fi connections"
+      ]
+    },
+    {
+      "group": "Device ID & call information",
+      "permissions": [
+        "read phone status and identity"
+      ]
+    },
+    {
+      "group": "Other",
+      "permissions": [
+        "view network connections",
+        "create accounts and set passwords",
+        "pair with Bluetooth devices",
+        "access Bluetooth settings",
+        "send sticky broadcast",
+        "change network connectivity",
+        "connect and disconnect from Wi-Fi",
+        "full network access",
+        "change your audio settings",
+        "control Near Field Communication",
+        "read sync settings",
+        "run at startup",
+        "draw over other apps",
+        "use accounts on the device",
+        "control vibration",
+        "prevent device from sleeping",
+        "toggle sync on and off",
+        "install shortcuts",
+        "uninstall shortcuts",
+        "read Google service configuration"
+      ]
+    }
+  ],
+  "total_permissions": 42,
+  "data_safety": {
+    "shared": "<a href=\"https://support.google.com/googleplay?p=data-safety&amp;hl=en\" target=\"_blank\">Learn more</a> about how developers declare sharing",
+    "collected": "Location, Personal info and 5 others",
+    "encrypted": true,
+    "deletable": true
+  },
+  "scanned_at": "2026-03-18T19:14:55Z",
+  "source": "Google Play Store"
+}

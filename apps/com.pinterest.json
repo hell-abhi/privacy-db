@@ -1,0 +1,85 @@
+{
+  "package_name": "com.pinterest",
+  "app_name": "Pinterest",
+  "category": "Lifestyle",
+  "rating": 4.5,
+  "downloads": 1000000000,
+  "permissions": [
+    {
+      "group": "Identity",
+      "permissions": [
+        "find accounts on the device",
+        "read your own contact card"
+      ]
+    },
+    {
+      "group": "Contacts",
+      "permissions": [
+        "find accounts on the device",
+        "read your contacts"
+      ]
+    },
+    {
+      "group": "Location",
+      "permissions": [
+        "approximate location (network-based)",
+        "precise location (GPS and network-based)"
+      ]
+    },
+    {
+      "group": "Photos/Media/Files",
+      "permissions": [
+        "read the contents of your USB storage",
+        "modify or delete the contents of your USB storage"
+      ]
+    },
+    {
+      "group": "Storage",
+      "permissions": [
+        "read the contents of your USB storage",
+        "modify or delete the contents of your USB storage"
+      ]
+    },
+    {
+      "group": "Camera",
+      "permissions": [
+        "take pictures and videos"
+      ]
+    },
+    {
+      "group": "Microphone",
+      "permissions": [
+        "record audio"
+      ]
+    },
+    {
+      "group": "Wi-Fi connection information",
+      "permissions": [
+        "view Wi-Fi connections"
+      ]
+    },
+    {
+      "group": "Other",
+      "permissions": [
+        "view network connections",
+        "full network access",
+        "control Near Field Communication",
+        "run at startup",
+        "set wallpaper",
+        "use accounts on the device",
+        "control vibration",
+        "prevent device from sleeping",
+        "read Google service configuration"
+      ]
+    }
+  ],
+  "total_permissions": 22,
+  "data_safety": {
+    "shared": "Location, Personal info and 4 others",
+    "collected": "Location, Personal info and 9 others",
+    "encrypted": true,
+    "deletable": true
+  },
+  "scanned_at": "2026-03-18T19:15:18Z",
+  "source": "Google Play Store"
+}

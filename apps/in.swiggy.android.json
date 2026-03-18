@@ -1,0 +1,107 @@
+{
+  "package_name": "in.swiggy.android",
+  "app_name": "Swiggy: Food Instamart Dineout",
+  "category": "Food & Drink",
+  "rating": 4.51,
+  "downloads": 100000000,
+  "permissions": [
+    {
+      "group": "Identity",
+      "permissions": [
+        "find accounts on the device"
+      ]
+    },
+    {
+      "group": "Contacts",
+      "permissions": [
+        "find accounts on the device",
+        "read your contacts"
+      ]
+    },
+    {
+      "group": "Location",
+      "permissions": [
+        "approximate location (network-based)",
+        "precise location (GPS and network-based)"
+      ]
+    },
+    {
+      "group": "SMS",
+      "permissions": [
+        "read your text messages (SMS or MMS)",
+        "receive text messages (SMS)",
+        "send SMS messages"
+      ]
+    },
+    {
+      "group": "Phone",
+      "permissions": [
+        "directly call phone numbers",
+        "read phone status and identity"
+      ]
+    },
+    {
+      "group": "Photos/Media/Files",
+      "permissions": [
+        "read the contents of your USB storage",
+        "modify or delete the contents of your USB storage"
+      ]
+    },
+    {
+      "group": "Storage",
+      "permissions": [
+        "read the contents of your USB storage",
+        "modify or delete the contents of your USB storage"
+      ]
+    },
+    {
+      "group": "Camera",
+      "permissions": [
+        "take pictures and videos"
+      ]
+    },
+    {
+      "group": "Microphone",
+      "permissions": [
+        "record audio"
+      ]
+    },
+    {
+      "group": "Wi-Fi connection information",
+      "permissions": [
+        "view Wi-Fi connections"
+      ]
+    },
+    {
+      "group": "Device ID & call information",
+      "permissions": [
+        "read phone status and identity"
+      ]
+    },
+    {
+      "group": "Other",
+      "permissions": [
+        "view network connections",
+        "pair with Bluetooth devices",
+        "full network access",
+        "change your audio settings",
+        "run at startup",
+        "reorder running apps",
+        "draw over other apps",
+        "control vibration",
+        "prevent device from sleeping",
+        "Google Play license check",
+        "read Google service configuration"
+      ]
+    }
+  ],
+  "total_permissions": 29,
+  "data_safety": {
+    "shared": "Location, Personal info and 5 others",
+    "collected": "Location, Personal info and 5 others",
+    "encrypted": true,
+    "deletable": true
+  },
+  "scanned_at": "2026-03-18T19:15:31Z",
+  "source": "Google Play Store"
+}

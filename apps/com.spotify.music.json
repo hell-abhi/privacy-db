@@ -1,0 +1,101 @@
+{
+  "package_name": "com.spotify.music",
+  "app_name": "Spotify: Music and Podcasts",
+  "category": "Music & Audio",
+  "rating": 4.14,
+  "downloads": 1000000000,
+  "permissions": [
+    {
+      "group": "Identity",
+      "permissions": [
+        "find accounts on the device"
+      ]
+    },
+    {
+      "group": "Contacts",
+      "permissions": [
+        "find accounts on the device"
+      ]
+    },
+    {
+      "group": "Location",
+      "permissions": [
+        "approximate location (network-based)",
+        "precise location (GPS and network-based)"
+      ]
+    },
+    {
+      "group": "Phone",
+      "permissions": [
+        "read phone status and identity"
+      ]
+    },
+    {
+      "group": "Photos/Media/Files",
+      "permissions": [
+        "read the contents of your USB storage",
+        "modify or delete the contents of your USB storage"
+      ]
+    },
+    {
+      "group": "Storage",
+      "permissions": [
+        "read the contents of your USB storage",
+        "modify or delete the contents of your USB storage"
+      ]
+    },
+    {
+      "group": "Camera",
+      "permissions": [
+        "take pictures and videos"
+      ]
+    },
+    {
+      "group": "Microphone",
+      "permissions": [
+        "record audio"
+      ]
+    },
+    {
+      "group": "Wi-Fi connection information",
+      "permissions": [
+        "view Wi-Fi connections"
+      ]
+    },
+    {
+      "group": "Device ID & call information",
+      "permissions": [
+        "read phone status and identity"
+      ]
+    },
+    {
+      "group": "Other",
+      "permissions": [
+        "view network connections",
+        "pair with Bluetooth devices",
+        "access Bluetooth settings",
+        "send sticky broadcast",
+        "change network connectivity",
+        "allow Wi-Fi Multicast reception",
+        "full network access",
+        "change your audio settings",
+        "control Near Field Communication",
+        "run at startup",
+        "use accounts on the device",
+        "control vibration",
+        "prevent device from sleeping",
+        "install shortcuts",
+        "read Google service configuration"
+      ]
+    }
+  ],
+  "total_permissions": 28,
+  "data_safety": {
+    "shared": "Location, Personal info, and Device or other IDs",
+    "collected": "Location, Personal info and 7 others",
+    "encrypted": true,
+    "deletable": true
+  },
+  "scanned_at": "2026-03-18T19:14:59Z",
+  "source": "Google Play Store"
+}
