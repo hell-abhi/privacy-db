@@ -1,0 +1,29 @@
+{
+  "packages": [
+    "com.amazon.mShop.android.shopping",
+    "com.application.zomato",
+    "com.discord",
+    "com.facebook.katana",
+    "com.flipkart.android",
+    "com.google.android.apps.maps",
+    "com.google.android.apps.nbu.paisa.user",
+    "com.google.android.gm",
+    "com.google.android.youtube",
+    "com.instagram.android",
+    "com.linkedin.android",
+    "com.myntra.android",
+    "com.netflix.mediaclient",
+    "com.phonepe.app",
+    "com.pinterest",
+    "com.reddit.frontpage",
+    "com.snapchat.android",
+    "com.spotify.music",
+    "com.twitter.android",
+    "com.ubercab",
+    "com.whatsapp",
+    "in.swiggy.android",
+    "net.one97.paytm",
+    "org.telegram.messenger"
+  ],
+  "count": 24
+}
